@@ -1,3 +1,3 @@
-# discord-py-bot-base
+# TFCPC Bot
 
-A basic setup for a bot made with discord.py.
+A discord bot I made as a first project for the Terry Fox Computer Programming Club.
